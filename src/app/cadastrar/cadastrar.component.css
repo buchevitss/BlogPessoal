@@ -1,0 +1,17 @@
+#img-bg{
+background-image: url('../../assets/34345895_1810644199018254_5176627565363724288_n.jpg');
+
+min-height: 695px;
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.form-group{
+    padding: 10px;
+}
+
+.mr-4{
+    margin-right: 10px;
+}
